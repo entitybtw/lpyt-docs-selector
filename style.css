@@ -43,7 +43,7 @@ body{
   font-size:14px;
   font-weight:700;
   color:var(--accent);
-  text-transform:uppercase;
+  text-transform:none;
   margin-bottom:8px;
 }
 
